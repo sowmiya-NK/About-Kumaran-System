@@ -1,0 +1,63 @@
+.container{
+    background-color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+    overflow :hidden;
+    }
+    li{
+        float:right;
+        
+    }
+    li a {
+         color:center;
+         text-align:center;
+        display: block;
+        padding:15px;
+        color: white 
+        
+    }
+    #logo{
+        text-align:right;
+     }
+     #sss{
+         text-align:center;
+     }
+     #bb{
+         border: 1px solid black;
+         margin-top: 50px;
+         margin-bottom: 100px;
+         margin-right: 400px;
+         margin-left: 400px;
+         padding: 20px;
+         background-color: lightgoldenrodyellow
+     }
+     footer{
+         text-align: center;
+         background-color: blueviolet;
+         color: white;
+     }
+     
+     body{
+        background-color: beige;
+        background-image: url('https://media.glassdoor.com/l/76/18/fd/be/sipcot-it-park-chennai-odc.jpg');
+        background-repeat:round
+    }
+    h1{
+        background-color: lightblue;
+    
+    }
+    #head
+    {
+        border:1px solid aquamarine;
+    }
+   #form{
+    background-position: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 15px;
+   }
